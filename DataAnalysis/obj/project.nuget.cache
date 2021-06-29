@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EK7H11KFR8oaFEbnvcCBME35MJoy7D+0UlDJOW5xeqsDbbVlIcSDRjCBUYzvdckAUFoz47EMeFh64SwBziNtZQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\source\\repos\\DSEDataAnalysis\\DataAnalysis\\DataAnalysis.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\htmlagilitypack\\1.11.34\\htmlagilitypack.1.11.34.nupkg.sha512"
+  ],
+  "logs": []
+}

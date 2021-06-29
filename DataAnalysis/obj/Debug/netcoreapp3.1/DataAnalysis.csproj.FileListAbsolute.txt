@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\DataAnalysis\DataAnalysis\bin\Debug\netcoreapp3.1\DataAnalysis.exe
+C:\Users\user\source\repos\DataAnalysis\DataAnalysis\bin\Debug\netcoreapp3.1\DataAnalysis.deps.json
+C:\Users\user\source\repos\DataAnalysis\DataAnalysis\bin\Debug\netcoreapp3.1\DataAnalysis.runtimeconfig.json
+C:\Users\user\source\repos\DataAnalysis\DataAnalysis\bin\Debug\netcoreapp3.1\DataAnalysis.runtimeconfig.dev.json
+C:\Users\user\source\repos\DataAnalysis\DataAnalysis\bin\Debug\netcoreapp3.1\DataAnalysis.dll
+C:\Users\user\source\repos\DataAnalysis\DataAnalysis\bin\Debug\netcoreapp3.1\DataAnalysis.pdb
+C:\Users\user\source\repos\DataAnalysis\DataAnalysis\obj\Debug\netcoreapp3.1\DataAnalysis.csprojAssemblyReference.cache
+C:\Users\user\source\repos\DataAnalysis\DataAnalysis\obj\Debug\netcoreapp3.1\DataAnalysis.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\DataAnalysis\DataAnalysis\obj\Debug\netcoreapp3.1\DataAnalysis.AssemblyInfo.cs
+C:\Users\user\source\repos\DataAnalysis\DataAnalysis\obj\Debug\netcoreapp3.1\DataAnalysis.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DataAnalysis\DataAnalysis\obj\Debug\netcoreapp3.1\DataAnalysis.dll
+C:\Users\user\source\repos\DataAnalysis\DataAnalysis\obj\Debug\netcoreapp3.1\DataAnalysis.pdb
+C:\Users\user\source\repos\DataAnalysis\DataAnalysis\obj\Debug\netcoreapp3.1\DataAnalysis.genruntimeconfig.cache
+C:\Users\user\source\repos\DataAnalysis\DataAnalysis\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll
+C:\Users\user\source\repos\DataAnalysis\DataAnalysis\obj\Debug\netcoreapp3.1\DataAnalysis.csproj.CopyComplete
